@@ -3,9 +3,9 @@
 my_string = "Radha"
 
 
-palindroem_string = my_string[-1:-5]
+palindrome_string = my_string[::-1]
 
-if palindroem_string == my_string:
-  print("yes Its Palindrome:")
+if palindrome_string == my_string:
+  print("Yes It's a Palindrome String:")
 else:
-  print("It is not a palindrome string")
+  print("No It is not a Palindrome String")
