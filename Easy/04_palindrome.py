@@ -1,5 +1,3 @@
-
-
 my_string = "Radha"
 
 
@@ -9,3 +7,4 @@ if palindroem_string == my_string:
   print("yes Its Palindrome:")
 else:
   print("It is not a palindrome string")
+  
